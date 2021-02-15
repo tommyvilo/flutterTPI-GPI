@@ -20,3 +20,7 @@ I **materiali necessari** sono i seguenti:
 
 ## Scopo del Lavoro
 Lo **scopo** è approfondire il funzionamento di questo interessante Framework che ti permette di creare applicazioni ibride con estrema facilità.
+
+[Presentazione PDF](flutterPresentazione.pdf)
+
+by Vilotto Tommaso & Zerman Nicolò
