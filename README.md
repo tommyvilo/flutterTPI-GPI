@@ -23,6 +23,6 @@ Lo **scopo** è approfondire il funzionamento di questo interessante Framework c
 
 [Presentazione PDF](flutterPresentazione.pdf)
 
-[Licenza](LICENSE.txt)
+[Licenza](LICENSE)
 
 by Vilotto Tommaso & Zerman Nicolò
